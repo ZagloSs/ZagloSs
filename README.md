@@ -6,5 +6,5 @@ My name is Carlos Díez, im a FullStack developer with knowledge in Java, C#, Py
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zagloss)](https://github.com/anuraghazra/github-readme-stats)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=c4rlos0302)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZagloSs&theme=transparent)](https://git.io/streak-stats)
 
